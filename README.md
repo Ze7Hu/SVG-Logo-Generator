@@ -15,6 +15,7 @@ Nodejs
 Screencastify
 
 Link
-Locate the link for the Logo maker demo here
+
+Locate the link for the Logo maker demo here[https://drive.google.com/file/d/1TahGr4f-TLLjtRoU_Z2kG-B63FaJnaVM/view]
 
 Screenshots
