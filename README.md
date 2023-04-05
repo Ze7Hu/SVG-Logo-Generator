@@ -17,7 +17,10 @@ Nodejs
 
 Screencastify
 
-Link
-Locate the link for the Logo maker demo here
+## Link
+Locate the link for the Logo maker demo here [https://drive.google.com/file/d/1TahGr4f-TLLjtRoU_Z2kG-B63FaJnaVM/view]
 
-Screenshots
+## Screenshots
+<img width="873" alt="Screenshot 2023-04-05 at 15 09 03" src="https://user-images.githubusercontent.com/123417090/230117463-245fc845-8555-4f8c-bea6-c8c7d1cf54fa.png">
+
+<img width="873" alt="Screenshot 2023-04-05 at 15 09 52" src="https://user-images.githubusercontent.com/123417090/230117587-3156b690-cdce-4783-a276-ab97658947c8.png">
