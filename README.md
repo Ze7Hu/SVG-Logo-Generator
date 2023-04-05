@@ -19,3 +19,13 @@ Link
 Locate the link for the Logo maker demo here [https://drive.google.com/file/d/1TahGr4f-TLLjtRoU_Z2kG-B63FaJnaVM/view]
 
 Screenshots
+
+<img width="873" alt="Screenshot 2023-04-05 at 15 01 51" src="https://user-images.githubusercontent.com/123417090/230109362-1ad533d1-59e3-4e85-8832-6143a91e5097.png">
+
+<img width="873" alt="Screenshot 2023-04-05 at 15 06 43" src="https://user-images.githubusercontent.com/123417090/230109563-0161b1e2-68bf-49a8-be49-1401c8be56c0.png">
+
+
+<img width="873" alt="Screenshot 2023-04-05 at 15 09 03" src="https://user-images.githubusercontent.com/123417090/230109147-8f2f874f-797e-4906-8785-737429814865.png">
+
+
+<img width="873" alt="Screenshot 2023-04-05 at 15 09 52" src="https://user-images.githubusercontent.com/123417090/230108596-bdf1af79-1e34-4002-b93a-be949326d675.png">
